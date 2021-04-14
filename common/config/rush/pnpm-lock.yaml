@@ -1,0 +1,13 @@
+dependencies:
+  '@rush-temp/frontend-1': file:projects/frontend-1.tgz
+lockfileVersion: 5.2
+packages:
+  file:projects/frontend-1.tgz:
+    dev: false
+    name: '@rush-temp/frontend-1'
+    resolution:
+      integrity: sha512-xGMhlnZQX+OkhZIhAatPNdiGl6K9M9Zhz4XU3nLOeTuIjuSkb3mThi2nngukNOyoxvMdFAvC86TJi6bGm6bc9w==
+      tarball: file:projects/frontend-1.tgz
+    version: 0.0.0
+specifiers:
+  '@rush-temp/frontend-1': file:./projects/frontend-1.tgz
