@@ -1,3 +1,7 @@
 {
-  "name": "frontend-1"
+  "name": "@sunrick/frontend-1",
+  "main": "./index.js",
+  "scripts": {
+    "build": ""
+  }
 }

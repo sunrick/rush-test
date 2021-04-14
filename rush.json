@@ -458,8 +458,12 @@
     //   "reviewCategory": "tools"
     // }
     {
-      "packageName": "frontend-1",
+      "packageName": "@sunrick/frontend-1",
       "projectFolder": "frontend-1"
+    },
+    {
+      "packageName": "vite-project",
+      "projectFolder": "vite-project"
     }
   ]
 }
