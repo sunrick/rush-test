@@ -26,5 +26,4 @@ jobs:
     - run: rush install
     - run: rush build
     - run: rush deploy --overwrite -p vite-project
-    - run: cd common/deploy/vite-project
-    - run: rushx build
+    - run: cd common/deploy/vite-project && rushx build
