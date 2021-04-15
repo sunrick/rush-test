@@ -8,6 +8,7 @@ import HelloWorld from './components/HelloWorld.vue'
 import { hello } from '@sunrick/frontend-1'
 
 hello()
+console.log('sup')
 // This starter template is using Vue 3 experimental <script setup> SFCs
 // Check out https://github.com/vuejs/rfcs/blob/script-setup-2/active-rfcs/0000-script-setup.md
 </script>
