@@ -1,7 +1,12 @@
 {
   "name": "@sunrick/frontend-1",
-  "main": "./index.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
   "scripts": {
-    "build": ""
-  }
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
 }
